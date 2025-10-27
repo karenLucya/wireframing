@@ -1,5 +1,5 @@
-# wireframing
-Introduction to Wireframing in Design
+# Wireframing
+
 # Introduction to Wireframing
 
 ## What is Wireframing?
