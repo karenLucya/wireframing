@@ -62,7 +62,6 @@ Low-fidelity (low-fi) wireframes are **basic sketches or simple outlines** that 
 Imagine a rough sketch of a website’s homepage showing a header, a few boxes for content, and a footer — that’s a low-fidelity wireframe.
 
 
-
 ### 🔹 High-Fidelity Wireframes
 High-fidelity (high-fi) wireframes are **more detailed and polished** versions that closely resemble the final product. They include real content, typography, spacing, and interactive elements.
 
