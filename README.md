@@ -59,6 +59,33 @@ Detailed wireframes that closely resemble the final product’s design. They may
 
 ---
 
-✅ **Summary**
+**Summary**
 Wireframing is an essential step in the design process that helps teams visualize, communicate, and refine ideas efficiently. By focusing on structure and usability early, teams can save time and deliver better user experiences.
 
+---
+
+## Wireframing Tools
+
+Several tools are available to help designers and developers create wireframes efficiently. These tools make it easy to visualize layouts, collaborate with teams, and refine ideas before moving to full design or development.
+
+### Popular Wireframing Tools
+- **Figma**
+- **Sketch**
+- **Adobe XD**
+- **Balsamiq**
+- **InVision**
+
+### Figma: A Recommended Tool
+**Figma** is one of the most popular tools for wireframing and user interface design. It is web-based and supports real-time collaboration, making it ideal for team projects. 
+
+#### **Key Features:**
+- **Cloud-based:** Access and edit designs from anywhere.
+- **Real-time collaboration:** Multiple users can work on the same design simultaneously.
+- **Components and templates:** Helps create reusable elements for consistent layouts.
+- **Prototyping and feedback:** Enables interactive prototypes and easy sharing for stakeholder reviews.
+
+Figma is especially useful for wireframing because it combines flexibility with precision. Designers can start with simple low-fidelity wireframes and easily scale them up to high-fidelity prototypes — all in one tool.
+
+---
+
+ *Using the right wireframing tools ensures efficiency, better teamwork, and a smoother design-to-development process.*
